@@ -65,6 +65,8 @@ python app.py
 
 ## Dataset
 
+![image](https://github.com/user-attachments/assets/954ddadc-fe06-4686-ae9b-5ad4eb24d64d)
+
 The application uses the Heart Disease dataset from UCI Machine Learning Repository. The dataset contains various health parameters that are used to predict the presence of heart disease.
 
 ## Contributing
